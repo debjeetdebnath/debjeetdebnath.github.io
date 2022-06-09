@@ -36758,19 +36758,19 @@ s=A.a(j.d,h)<728||A.a(j.e,g)<680?new A.DR(B.bV,A.ahN(!0,A.cc(A.b([A.eS(!1,!0,B.v
 r=j.a3b(b)
 q=j.f
 p=j.a3d(b)
-if(A.a(j.d,h)>870||A.a(j.e,g)>852)o=B.FL
+if(A.a(j.d,h)>915||A.a(j.e,g)>852)o=B.FL
 else{o=b.E(f).f
-o=A.bp(i,A.afQ(B.Co,A.afP(!0,!0,400)),B.e_,i,320,i,i,o.a.a)}n=A.a(j.d,h)>870||A.a(j.e,g)>1128?j.a3h(b):j.a3g(b)
-if(A.a(j.d,h)>870||A.a(j.e,g)>901){m=b.E(f).f
+o=A.bp(i,A.afQ(B.Co,A.afP(!0,!0,400)),B.e_,i,320,i,i,o.a.a)}n=A.a(j.d,h)>915||A.a(j.e,g)>1128?j.a3h(b):j.a3g(b)
+if(A.a(j.d,h)>915||A.a(j.e,g)>901){m=b.E(f).f
 l=b.E(f).f
 k=t.p
 m=A.bp(i,A.cc(A.b([A.am(i,b.E(f).f.a.b*0.1,i),B.MJ,A.am(i,b.E(f).f.a.b*0.04,i),B.Gc,A.am(i,b.E(f).f.a.b*0.04,i),A.cA(A.b([A.E7(new A.p9(new A.dN(B.AA,A.cA(A.b([A.J1(B.D,2),B.AJ,A.am(i,i,b.E(f).f.a.a*0.1),A.J1(B.D,2),B.AF,A.am(i,i,b.E(f).f.a.a*0.01),A.J1(B.D,2),B.AI],k),B.v,B.au,B.p),i),i))],k),B.v,B.w,B.p),A.v_("assets/years.png"),new A.p9(new A.dN(B.Ay,A.cA(A.b([A.J1(B.D,2),B.AG,A.J1(B.D,2),B.AH],k),B.v,B.au,B.p),i),i)],k),B.v,B.w,B.p),B.e_,i,l.a.b/1.35,i,i,m.a.a)
 f=m}else f=new A.yq(A.v_("assets/myexp.png"),0.5,3,!0,i)
-m=A.a(j.d,h)>870||A.a(j.e,g)>1014?j.a3c(b):j.a3f(b)
+m=A.a(j.d,h)>915||A.a(j.e,g)>1014?j.a3c(b):j.a3f(b)
 m=A.ahQ(A.cc(A.b([p,o,n,f,m,j.a3e(b)],t.p),B.v,B.hj,B.p),q,!0,!0,!0)
 return A.ahO(r,B.bV,new A.HJ(q,!1,m,i),s)},
 a3b(a){var s,r=this,q=null,p=t.w,o=a.E(p).f
-if(A.a(r.d,"height")>870||A.a(r.e,"width")>680){s=t.p
+if(A.a(r.d,"height")>915||A.a(r.e,"width")>680){s=t.p
 s=A.cA(A.b([A.cA(A.b([B.v0,B.v9,A.fD(a.E(p).f.a.a>=1000?" />\t\t":" />",q,q,q,B.kW,q,q)],s),B.v,B.w,B.eA),A.am(q,q,a.E(p).f.a.a/10),A.eS(!1,!0,B.v_,q,!0,q,q,q,q,q,q,q,q,q,new A.a6V(r),q,q,q),A.eS(!1,!0,B.vc,q,!0,q,q,q,q,q,q,q,q,q,new A.a6W(r),q,q,q),A.eS(!1,!0,B.v1,q,!0,q,q,q,q,q,q,q,q,q,new A.a6X(r),q,q,q),A.eS(!1,!0,B.va,q,!0,q,q,q,q,q,q,q,q,q,new A.a6Y(r),q,q,q),A.eS(!1,!0,B.uY,q,!0,q,q,q,q,q,q,q,q,q,new A.a6Z(r),q,q,q),A.kl(B.v3,new A.a7_(r),A.iW(q,q,q,q,q,q,q,q,q,q,q,B.D,q,q,q,q,q,q))],s),B.v,B.au,B.p)
 p=s}else{s=t.p
 s=A.cA(A.b([A.cA(A.b([B.v0,B.v9,A.fD(a.E(p).f.a.a>=1000?" />\t\t":" />",q,q,q,B.kW,q,q)],s),B.v,B.w,B.eA),A.am(q,q,a.E(p).f.a.a/10)],s),B.v,B.au,B.p)
@@ -36810,7 +36810,7 @@ p=A.cF(5)
 return A.bp(o,A.cc(A.b([k,A.cA(A.b([i,A.E7(A.cc(A.b([B.v5,h,s,g,q,r,A.am(A.jG(A.hY(o,o,o,o,o,o,o,o,!0,new A.bJ(4,A.cF(5),B.b3),o,o,o,o,B.j,o,o,o,o,o,new A.bJ(4,p,B.b4),o,o,o,o,o,o,o,o,o,o,o,!1,o,o,B.bh,"Message",o,o,o,o,o,o,o,o,o,o,o,o,o),B.aj),o,450)],j),B.v,B.au,B.p))],j),B.v,B.w,B.p),A.am(o,a.E(n).f.a.b*0.03,o),A.kl(B.vb,new A.a70(),A.iW(o,o,o,o,o,o,o,o,o,o,o,B.D,o,o,o,o,o,o))],j),B.v,B.w,B.p),B.bV,o,l.a.b*0.6,o,o,m.a.a)},
 a3h(a){var s=null,r=t.w,q=t.p
 return A.bp(s,A.cc(A.b([A.am(s,a.E(r).f.a.b*0.1,s),A.cA(A.b([A.cc(A.b([B.v2,A.am(s,a.E(r).f.a.b*0.01,s),B.v6],q),B.as,B.w,B.p),A.kl(B.v7,new A.a7a(),A.iW(s,s,s,s,s,s,s,s,s,s,s,B.D,s,s,s,s,s,s))],q),B.v,B.au,B.p),A.am(s,a.E(r).f.a.b*0.1,s),A.cA(B.mU,B.v,B.au,B.p),A.am(s,a.E(r).f.a.b*0.1,s),A.kl(B.v8,new A.a7b(this),A.iW(s,s,s,s,s,s,s,s,s,s,s,B.D,s,s,s,s,s,s))],q),B.v,B.w,B.p),B.bV,s,900,s,s,1/0)},
-a3d(a){var s,r,q=this,p=null,o="height",n="width",m="Debjeet Debnath",l="Flutter Developer",k="Machine Learning Enthusiast",j="Medium Writer",i=A.a(q.d,o)>870||A.a(q.e,n)>500,h=t.u6,g=t.kO,f=t.p
+a3d(a){var s,r,q=this,p=null,o="height",n="width",m="Debjeet Debnath",l="Flutter Developer",k="Machine Learning Enthusiast",j="Medium Writer",i=A.a(q.d,o)>950||A.a(q.e,n)>576,h=t.u6,g=t.kO,f=t.p
 if(i){i=A.am(p,p,a.E(t.w).f.a.a/10)
 s=A.bp(p,B.lH,p,new A.cj(B.lT,p,p,A.cF(5),p,p,B.aq),35,p,p,110)
 r=A.am(A.lV(A.Qz(A.b([A.aij(m,B.cv)],h),!1),p,p,B.aY,!0,B.uS,p,p,B.am),p,450)
